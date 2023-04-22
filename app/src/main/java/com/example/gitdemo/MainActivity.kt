@@ -15,4 +15,5 @@ class MainActivity : AppCompatActivity() {
         binding.buttonAdd.setOnClickListener{binding.textView.text = "${++number}"}
 
     }
+    //edit from remote
 }
